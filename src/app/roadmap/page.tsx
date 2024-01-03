@@ -136,24 +136,24 @@ const page = () => {
               <h1 className="text-2xl text-turquoise underline">ROADMAP</h1>
             </div>{" "}
             <div className="flex justify-center text-turquoise ">
-              <ul className="h-68 h-full rounded-lg border-2 border-[##509624] p-4 text-lg ">
-                <li className="emoji-list-item w-full underline py-1 ">
+              <ul className="h-68 h-full rounded-lg border-2 border-[##509624] p-4 text-lg bg-black">
+                <li className="emoji-list-item w-full underline py-1 text-customColor ">
                   Sip The Pepsei
                 </li>
                 <li className="emoji-list-item w-full underline py-1">
                   Launch Token
                 </li>
-                <li className="emoji-list-item w-full underline py-1">
+                <li className="emoji-list-item w-full underline py-1 text-customColor ">
                   Sip The Pepsei
                 </li>
-                <li className="emoji-list-item w-full underline py-1">Burn Token</li>
-                <li className="emoji-list-item w-full underline py-1">
+                <li className="emoji-list-item w-full underline py-1">Renounce the contract</li>
+                <li className="emoji-list-item w-full underline py-1 text-customColor ">
                   Sip The Pepsei
                 </li>
                 <li className="emoji-list-item w-full underline py-1">
                   Burn The LP
                 </li>
-                <li className="emoji-list-item w-full underline py-1">
+                <li className="emoji-list-item w-full underline py-1 text-customColor ">
                   Sip The Pepsei
                 </li>
                 <li className="emoji-list-item w-full underline py-1">
