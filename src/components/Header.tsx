@@ -31,7 +31,7 @@ const Header = () => {
             />
           </a>
 
-          <a href="https://t.me/+LA4aRrAghT8zMDlk">
+          <a href="https://t.me/+LA4aRrAghT8zMDlk" target="_blank">
             <Image
               width={32}
               height={32}
