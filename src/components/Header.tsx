@@ -21,6 +21,10 @@ const Header = () => {
         </Link>
 
         <div className="flex gap-2">
+          <a href="https://twitter.com/pepseiclub" target="_blank">
+
+            
+          
           <Image
             width={32}
             height={32}
@@ -28,7 +32,7 @@ const Header = () => {
             src={"/x.png"}
             className="rounded-full cursor-pointer active:opacity-80"
           />
-
+</a>
           <Image
             width={32}
             height={32}
