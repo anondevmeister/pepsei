@@ -31,13 +31,15 @@ const Header = () => {
             />
           </a>
 
-          <Image
-            width={32}
-            height={32}
-            alt={"logo"}
-            src={"/tglogo2.png"}
-            className="cursor-pointer rounded-full active:opacity-80 opacity-60"
-          />
+          <a href="https://t.me/+LA4aRrAghT8zMDlk">
+            <Image
+              width={32}
+              height={32}
+              alt={"logo"}
+              src={"/tglogo2.png"}
+              className="cursor-pointer rounded-full active:opacity-80"
+            />
+          </a>
         </div>
       </div>
 
